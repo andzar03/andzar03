@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deerndrr) 
+[![Instagram](https://share.google/606kTRo5K2XCZARTh)](https://instagram.com/deerndrr) 
 
 # 💻 Tech Stack:
 <p align="left">
